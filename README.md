@@ -6,7 +6,7 @@
 | B | ⭕ | ❌ | ❌ |
 | C | ❌ | ⭕ | ⭕ |
 
-**Legenda**
+**Jogo Finalizado deu Velha!**
 
 - ❌ Primeiro jogador 
 - ⭕ Segundo jogador
